@@ -1,16 +1,16 @@
-# 🚗 Used Car Market EDA – Cars24 Data Analysis:
+# 🚗 Used Car Market EDA – Cars24 Data Analysis :-
 
 An end-to-end **Exploratory Data Analysis (EDA)** project based on real-time used car listings scraped from [Cars24.com](https://www.cars24.com). This project uncovers insights on how various factors like car brand, ownership type, fuel type, kilometers driven, and transmission influence **resale price**.
 
 ---
 
-## 🔍 Project Goal:
+## 🔍 Project Goal :-
 
 To extract meaningful patterns and relationships from unstructured Cars24 data to support **better decision-making** in the Indian used car market.
 
 ---
 
-## 🧠 Problem Statement:
+## 🧠 Problem Statement :-
 
 The demand for used cars in India is steadily increasing, but platforms like Cars24 don’t provide structured, downloadable data — making it hard to analyze pricing trends and resale dynamics.
 
@@ -26,7 +26,7 @@ This project addresses that gap by **collecting and analyzing** data to extract 
 
 ---
 
-## 📊 What This EDA Covers:
+## 📊 What This EDA Covers :-
 
 ### 🔹 Univariate Analysis:
 - Price distribution  
@@ -35,7 +35,7 @@ This project addresses that gap by **collecting and analyzing** data to extract 
 - Top brands and models  
 - Ownership type, fuel type, transmission breakdowns  
 
-### 🔹 Bivariate Analysis:
+### 🔹 Bivariate Analysis :-
 - Price vs. EMI  
 - Price vs. KM driven  
 - Owner type vs. Price  
@@ -43,13 +43,13 @@ This project addresses that gap by **collecting and analyzing** data to extract 
 - Fuel type vs. Transmission  
 - Ownership vs. Brand share  
 
-### 🔹 Outlier Detection & Distribution Analysis:
+### 🔹 Outlier Detection & Distribution Analysis :-
 - Price, EMI, and KM Driven outliers  
 - Data skewness and central tendency  
 
 ---
 
-## 📌 Key Insights:
+## 📌 Key Insights :-
 
 - ✅ **First-owner cars** hold higher resale value than others  
 - ✅ **Petrol cars** dominate the market, followed by diesel  
@@ -60,7 +60,7 @@ This project addresses that gap by **collecting and analyzing** data to extract 
 
 ---
 
-## 🧰 Tools & Technologies:
+## 🧰 Tools & Technologies :-
 
 - **Web Scraping:** Python, BeautifulSoup, Regex  
 - **Data Cleaning & Preparation:** Pandas, NumPy  
@@ -68,7 +68,7 @@ This project addresses that gap by **collecting and analyzing** data to extract 
 
 ---
 
-## 📂 Repository Structure:
+## 📂 Repository Structure :-
 - 📁 data/ # Cleaned & raw data
 
 - 📁 eda/ # EDA notebooks and analysis
@@ -79,7 +79,7 @@ This project addresses that gap by **collecting and analyzing** data to extract 
 
 ---
 
-## ✅ Project Highlights:
+## ✅ Project Highlights :-
 
 - ✔ Real-world dataset scraped from Cars24  
 - ✔ Detailed univariate & bivariate EDA  
@@ -88,7 +88,7 @@ This project addresses that gap by **collecting and analyzing** data to extract 
 
 ---
 
-## 👨‍💻 Author:
+## 👨‍💻 Author :-
 
 **Raj Shivade**  
 📘 [LinkedIn](http://www.linkedin.com/in/raj-shivade25)  
